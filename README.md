@@ -1,6 +1,7 @@
 # Olá!👋
 
-Meu nome é Fábio Asada. Sou de São Paulo, Brasil. Estou começando neste mundo do desenvolvimento. Atualmente estou estudando mais o Front-End. 
+Meu nome é Fábio Asada. Sou de São Paulo, Brasil. 
+Estou começando neste mundo do desenvolvimento. Atualmente estou estudando mais o Front-End. 
 Sou apaixonado por aprender. E espero poder estar sempre em constante evolução. 
 
 <!--
