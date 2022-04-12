@@ -1,4 +1,10 @@
-### Hi there 👋
+# Hey 👋
+
+Meu nome é Fábio Asada! 👦🏻
+
+Eu sou um desenvolvedor Front End, em constante evolução. 💻
+
+Os códigos me desafiam e isso me faz querer mostrar sempre o meu melhor,  disposto a enfrentar muitos outros no mundo da programação.
 
 <!--
 **FabioAsada/FabioAsada** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
